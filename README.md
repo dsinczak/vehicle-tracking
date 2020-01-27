@@ -14,6 +14,7 @@ You will also find a simple service defined in `service/VehiclesService.scala` w
 4. Make your project run with the embedded track `src/main/resources/lc-track0-21781.geojson` and 3 vehicles.
 
 *Want more challenges? here are a few optional tasks:*
+
 5. Create a service that store and cache `TopologicalMap`s using a DB, and integrate it in the application.
 
 6. Create a service that store in a DB:
